@@ -1,8 +1,8 @@
 # Thursday 19 November 2026: 46 stories, 6 continents, one front page (v3 final)
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261119)
-[![repo](https://img.shields.io/badge/github-news--image--20261119--v3-green)](https://github.com/haidildariell/news-image-20261119-v3)
-[![stories](https://img.shields.io/badge/stories-46-gold)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/haidildariell/news-image-20261119-v3/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/haidildariell/news-image-20261119-v3/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 One image that sums up **Thursday 19 November 2026** — a newspaper front page
 with **46 verified stories from 6 continents**: the first-ever Trump–Xi–Putin
@@ -21,7 +21,7 @@ closed $97.17, +17%).
   Cyclone Akvan, the Suneung exam, Australia's 4.9% jobless rate, the Crimea
   bridge, Riyadh, the Arctic pact (109–0), Bangladesh, the Senate Iran vote,
   Colombia's strike, Indonesia's asset-seizure law.
-- **Dot-matrix world map** — 45 places pinned and numbered, plus THE VERDICT
+- **Dot-matrix world map** — 46 stories pinned and numbered, plus THE VERDICT
   (ICJ 9–6).
 - **31 numbered one-liners**, a THE DAY BY HOURS timeline, a DATE CHECK box
   listing 18 November (or earlier) news that was explicitly *excluded*, and a
